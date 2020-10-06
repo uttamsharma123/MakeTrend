@@ -1,0 +1,19 @@
+
+.margin-10{
+    margin-top:20px
+
+}
+.add-more-btn{
+    margin-top:20px;
+    border:none;
+    background-color: white;
+    margin-left:10px;
+}
+.delete-icon{
+  
+   position: relative;
+   bottom:20px;
+   left:-20px;
+   color:red;
+   
+}
